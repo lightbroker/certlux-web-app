@@ -4,3 +4,4 @@ certlux: Web application front-end for Certificate Transparency log reconnaissan
 Development stack:
 * React
 * Flask
+* Docker
